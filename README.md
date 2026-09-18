@@ -1,0 +1,1 @@
+# SOAR-Based-EDR-Endpoint-Response-Playbook
