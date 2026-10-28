@@ -78,6 +78,8 @@ This structure makes the workflow easier to test, maintain, and extend for addit
 ## Project Documentation
 
 Detailed implementation documentation and the associated research paper are available in the repository.
+View playbook : https://peaceful-nest-2395.tines.com/stories/60290
+
 
 ## Conclusion
 
